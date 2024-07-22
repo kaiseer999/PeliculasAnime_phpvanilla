@@ -1,0 +1,13 @@
+<?PHP require RUTA_APP.'/vistas/inc/header.php';?>
+
+<h1>PRUEBA VISTAAAAAAAAAAAAAAAAAAAAAAAAxd</h1>
+
+
+
+
+
+
+
+<?php /* ATENCION CON LOS \ SOLO FUNCIONAN CON EL REQUIRE PARA TENER
+LA RUTA MEN MUCHO CUIDADO NO TE QUIERO VER LLORAR MI AMOR
+*/require_once(RUTA_APP . '\vistas\inc\footer.php'); ?>
